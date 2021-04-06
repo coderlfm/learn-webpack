@@ -1,0 +1,1 @@
+(()=>{var e={214:e=>{e.exports={sayHello:()=>{console.log("hello webpack")}}}},o={};function s(r){if(o[r])return o[r].exports;var t=o[r]={exports:{}};return e[r](t,t.exports,s),t.exports}(()=>{"use strict";const{sayHello:e}=s(214);console.log("my name is webpack"),e()})()})();

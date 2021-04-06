@@ -1,0 +1,15 @@
+body{
+    /* color: red; */
+    font-size: 20px;
+    font-weight: bold;
+}
+
+body{
+    background-color: #ffffff78;
+    
+    user-select: none;
+}
+
+.wrap{
+    background: url(../img/avatar.gif) no-repeat;
+}

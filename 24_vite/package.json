@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"@vitejs/create-app": "^2.2.0",
+		"vite": "^2.1.2"
+	}
+}

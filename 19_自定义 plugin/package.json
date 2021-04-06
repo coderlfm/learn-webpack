@@ -1,0 +1,16 @@
+{
+  "name": "edit_plugin",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "node-ssh": "^11.1.1",
+    "webpack": "^5.26.3",
+    "webpack-cli": "^4.5.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

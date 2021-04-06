@@ -1,0 +1,1 @@
+(()=>{"use strict";var e=1;e++,console.log("test"),1,3;var o=document.createElement("div");o.className="div123",document.body.appendChild(o),console.log(2)})();

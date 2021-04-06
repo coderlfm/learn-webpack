@@ -1,0 +1,152 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.wordWrap": "on",
+    // "editor.fontFamily": "", //设置的字体类型为 Fira Code
+    // "editor.fontLigatures": true, //设置字体大小
+    "editor.lineHeight": 30,
+    "editor.fontSize": 18,
+    // "editor.fontWeight": "00",
+    "workbench.colorCustomizations": {
+        "[Atom One Dark]": {
+            // "editor.foreground": "#201515",
+            "editor.background": "#1d1e21",
+            // "editor.background": "#2b2b2b",
+            // "editor.selectionHighlightBorder": "#94767c00",
+            // "editor.selectionHighlightBackground": "#ff000078",
+            // "editorIndentGuide.activeBackground":"#81868d",
+            // "editorBracketMatch.background": "#ca9fdb5e",
+            // "editorBracketMatch.border": "#ff0000",
+            // "tab.activeBackground": "#ad9cd4b2",
+            // "textLink.foreground": "#d6561ac4",
+            // "descriptionForeground": "#ff0000",
+            // "selection.background": "#b98cd693",
+            // "textBlockQuote.background":"#b89a9a",
+            // "textSeparator.foreground": "#86c2df"
+        },
+    },
+    "files.associations": {
+        "*.extension": "language",
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript"
+    },
+    "workbench.colorTheme": "Atom One Dark",
+    "bracketPairColorizer.activeScopeCSS": [
+        "borderStyle : solid",
+        "borderWidth : 1px",
+        "borderColor : {color}; opacity: 0.5"
+    ],
+    "bracketPairColorizer.showBracketsInGutter": true,
+    "bracketPairColorizer.showBracketsInRuler": true,
+    "editor.renderIndentGuides": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.confirmDragAndDrop": false,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false, //这个设置字体粗细，可选normal,bold,"100"~"900"等，选择合适的就行
+    // "editor.tokenColorCustomizations": {
+    //     "comments": {
+    //         // 设置字体样式 加粗 下划线 斜体等
+    //         "fontStyle": "",
+    //         // 设置字体颜色
+    //         "foreground": "#69b868"
+    //     }, // 注释
+    //     // "keywords": "#0a0", // 关键字
+    //     // "variables": "#f00", // 变量名
+    //     // "strings": "#e2d75dbd", // 字符串
+    //     // "functions": "#5b99fcc9", // 函数名
+    //     // "numbers": "#AE81FF" // 数字
+    // },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "vsicons.dontShowNewVersionMessage": true,
+    "java.home": "C:\\Program Files\\Java\\jdk1.8.0_131",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "hediet.vscode-drawio.local-storage": "eyIuZHJhd2lvLWNvbmZpZyI6IntcImxhbmd1YWdlXCI6XCJcIixcImN1c3RvbUZvbnRzXCI6W10sXCJsaWJyYXJpZXNcIjpcImdlbmVyYWw7YmFzaWM7YXJyb3dzMjtjbGlwYXJ0O2Zsb3djaGFydDt1bWxcIixcImN1c3RvbUxpYnJhcmllc1wiOltcIkwuc2NyYXRjaHBhZFwiXSxcInBsdWdpbnNcIjpbXSxcInJlY2VudENvbG9yc1wiOltcIkU2RTZFNlwiLFwiQ0NDQ0NDXCJdLFwiZm9ybWF0V2lkdGhcIjpcIjI0MFwiLFwiY3JlYXRlVGFyZ2V0XCI6ZmFsc2UsXCJwYWdlRm9ybWF0XCI6e1wieFwiOjAsXCJ5XCI6MCxcIndpZHRoXCI6MzMwMCxcImhlaWdodFwiOjQ2ODF9LFwic2VhcmNoXCI6dHJ1ZSxcInNob3dTdGFydFNjcmVlblwiOnRydWUsXCJncmlkQ29sb3JcIjpcIiNkMGQwZDBcIixcImRhcmtHcmlkQ29sb3JcIjpcIiNFNkU2RTZcIixcImF1dG9zYXZlXCI6dHJ1ZSxcInJlc2l6ZUltYWdlc1wiOm51bGwsXCJvcGVuQ291bnRlclwiOjAsXCJ2ZXJzaW9uXCI6MTgsXCJ1bml0XCI6MSxcImlzUnVsZXJPblwiOmZhbHNlLFwidWlcIjpcIlwifSJ9",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "dart.debugExternalLibraries": true,
+    "dart.debugSdkLibraries": true,
+    "dart.enableCompletionCommitCharacters": true,
+    "dart.flutterHotRestartOnSave": true,
+    "dart.lineLength": 120,
+    "dart.previewFlutterUiGuides": true,
+    "dart.triggerSignatureHelpAutomatically": true,
+    // "fileheader.customMade": { // 头部注释
+    //     "Author": "刘丰茂",
+    //     "Date": "Do not edit",
+    //     "LastEditors": "刘丰茂",
+    //     "LastEditTime": "Do not edit",
+    //     "Description": "file content",
+    //     "FilePath": "Do not edit" // 增加此项配置即可
+    // },
+    // "fileheader.cursorMode": { // 函数注释
+    //     "description": "",
+    //     "param": "params",
+    //     "return": ""
+    // },
+    // "fileheader.configObj": {
+    //     "createHeader": true, // 默认打开
+    //     "autoAdd": true, // 默认开启自动添加头部注释，当文件没有设置头部注释时保存会自动添加
+    //     "autoAlready": false, // 默认开启
+    //     "prohibitAutoAdd": [
+    //         "json",
+    //         "md"
+    //     ], // 禁止.json .md文件，自动添加头部注释
+    //     "wideSame": false, // 设置为true开启
+    //     "wideNum": 13 // 字段长度 默认为13
+    // },
+    "path-intellisense.mappings": {
+        "@": "${workspaceRoot}/src"
+    },
+    "explorer.confirmDelete": false,
+    "tabnine.experimentalAutoImports": true,
+    "emmet.includeLanguages": {
+        "wxml": "html"
+    },
+    "minapp-vscode.disableAutoConfig": true,
+    "remote.SSH.remotePlatform": {
+        "49.234.89.243": "linux"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "eslint.codeAction.showDocumentation": {
+        "enable": true,
+    },
+    "eslint.format.enable": true,
+    "eslint.autoFixOnSave": true,
+    "editor.codeActionsOnSave": {
+        // For ESLint
+        "source.fixAll.eslint": true,
+        // For TSLint
+        "source.fixAll.tslint": true,
+        // For Stylelint
+        "source.fixAll.stylelint": true
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "octref.vetur"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "terminal.integrated.fontSize": 14,
+    "debug.console.fontSize": 16,
+    "editor.codeLensFontSize": 1,
+    "markdown.preview.fontSize": 1,
+    "window.zoomLevel": -1,
+    // "window.zoomLevel": 
+}
